@@ -269,15 +269,3 @@ result_df["label"] = classes
 result_df.head()
 result_df.to_excel(models_path+'subms2.xlsx')
 
-!git init
-
-!git
-
-!git config — global user.email “bodo.bianca@yahoo.com”
-!git config — global user.name “biancabodo”
-
-!git add -A
-
-!git commit -m “ImageClassifier”
-
-!git remote add origin https://<biancabodo>:<hovhuT-wagnaw-zyzku1>@github.com/<biancabodo>/ImageClassifier
